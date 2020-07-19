@@ -5,7 +5,8 @@ This repository contains Hand written Digit Recognition Prject with a GUI made u
 
 ## DEMO
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pSpwV16Z4_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/pSpwV16Z4_Y
+
 
 
 ## Requirements
@@ -59,9 +60,9 @@ step2 - click save\
 step3 - click predict--->this will show a popup image with the recognised value written on the sketch.\
 step4 - clear--->this will clear the canvas
 
-step1-..
-.
-.
-.
+step1-./
+.\
+.\
+.\
 .
 
