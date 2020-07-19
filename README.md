@@ -21,8 +21,8 @@ https://www.instagram.com/p/CCP5XQ3j7FS/?utm_source=ig_web_copy_link
 --->PIL\
 --->Tkinter
 
-This consits of 2 ython files\
-1.classifiergenerator.py
+This consits of 2 python files\
+1.classifiergenerator.py\
 2.recognizer.py
 
 ## classifergenerator.py
