@@ -1,15 +1,15 @@
 # HandWrittenDigit-Recognition-With-Tkinter-GUI
 
-This repository contains Hand written Digit Recognition Prject with a GUI made using Tkinter.\
+This repository contains Hand written Digit Recognition Prject with a GUI made using Tkinter.
 
 ## Requirements
---->joblib
---->sklearn
---->numpy
---->skimage
---->collections
---->opencv
---->PIL
+--->joblib\
+--->sklearn\
+--->numpy\
+--->skimage\
+--->collections\
+--->opencv\
+--->PIL\
 --->Tkinter
 
 This consits of 2 ython files\
@@ -45,13 +45,13 @@ Open commandprompt and change direcrtory to project nad run'python recognizer.py
 this will open a GUI which consists of 3 buttons.\
 1.save\
 2.predict\
-3.clear\
+3.clear
 
 Steps for realtime recognition\
 step1 - draw a digit\
 step2 - click save\
 step3 - click predict--->this will show a popup image with the recognised value written on the sketch.\
-step4 - clear--->this will clear the canvas\
+step4 - clear--->this will clear the canvas
 
 step1-..
 .
