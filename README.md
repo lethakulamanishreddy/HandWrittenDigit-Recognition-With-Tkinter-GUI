@@ -7,6 +7,8 @@ This repository contains Hand written Digit Recognition Prject with a GUI made u
 
 https://youtu.be/pSpwV16Z4_Y
 
+https://www.instagram.com/p/CCP5XQ3j7FS/?utm_source=ig_web_copy_link
+
 
 
 ## Requirements
